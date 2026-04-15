@@ -1,0 +1,210 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#000001",
+            "lang-select-color": "#222829",
+            "bg-light": "#000001",
+            "welcome-bonus-bg": "#000001",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#212121",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#000001",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#cd2d26",
+            "yellow": "#212121",
+            "yellow-button": "#cd2d26",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#080808",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#080808",
+            "faq-label": "#080808",
+            "bg-footer": "#080808",
+            "copyright": "#e7e7d5",
+            "starColor": "#fbff00",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6215"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6216",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Partouche Vichy"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6217",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino Partouche Vichy"
+        }
+    },
+    "pages": [
+        {
+            "id": "fr-fr-fr-FR",
+            "path": "\/",
+            "name": "Французский",
+            "languageCode": "fr",
+            "regionCode": "FR",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Casino Partouche Vichy",
+                    "title": "Casino Partouche Vichy - Jeux, restauration et expérience sur place",
+                    "description": "Découvrez le Casino Partouche Vichy, au cœur de Vichy, au Parc des Sources. Nous réunissons 92 machines à sous, 25 postes de jeux électroniques, 3 tables de jeux traditionnelles, une offre de restauration et les avantages Players Plus en un seul lieu.",
+                    "canonical": "casino-partouche-vichy.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6218",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-partouche-vichy.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6219"
+                },
+                "hero": {
+                    "title": "Une expérience de casino élégante au cœur de Vichy",
+                    "textDesktop": "Offre de bienvenue exclusive de",
+                    "textMobile": "Offre de bienvenue exclusive de",
+                    "playGame": "Lancer la partie",
+                    "claimBonus": "Réclamer le bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6220",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -2,
+                    "imageXModifier": 7,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6221",
+                    "mobileImageSizeModifier": -2,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Activer le bonus",
+                    "title": "Top casinos",
+                    "allCasino": "Tous les casinos",
+                    "welcomeBonusText": "Bonus de bienvenue"
+                },
+                "bonusDetails": {
+                    "title": "Détails du bonus",
+                    "getBonusButtonText": "Obtenir le bonus",
+                    "maximumAmountText": "Montant maximum",
+                    "wagerText": "",
+                    "bonusCodeText": "Code promo",
+                    "casino": "Casino",
+                    "bonuses": "Bonus",
+                    "rate": "Note",
+                    "freeSpins": "Tours gratuits",
+                    "moreInfo": "Plus d'infos",
+                    "get": "Obtenir",
+                    "refresh": "Actualiser"
+                },
+                "advantages": {
+                    "title": "Avantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Emplacement privilégié au cœur du Parc des Sources",
+                        "92 machines à sous disponibles sur place",
+                        "25 postes de jeux électroniques accessibles chaque jour",
+                        "Restaurant et bar au sein de l’établissement",
+                        "Accès au programme de fidélité Players Plus"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "En savoir plus",
+                    "appTitle": "Casino Partouche Vichy App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6222",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Casino Partouche Vichy App",
+                    "mobileGooglePlayImageTitle": "Casino Partouche Vichy App",
+                    "mobileIosImageTitle": "Casino Partouche Vichy App"
+                },
+                "games": {
+                    "playNowText": "Jouer maintenant",
+                    "title": "Jeux populaires",
+                    "allGames": "Tous les jeux"
+                },
+                "about": {
+                    "history": {
+                        "title": "À propos du casino",
+                        "description1": "",
+                        "items": [
+                            "92 machines à sous, 25 postes de jeux électroniques et 3 tables de jeux traditionnelles composent notre offre de jeu sur place.",
+                            "Nous sommes ouverts tous les jours à partir de 10h00 au Parc des Sources, en plein centre de Vichy.",
+                            "Le programme Players Plus est disponible, et des offres cadeaux vérifiées à Vichy incluent des expériences brunch ou apéro avec 20 € de crédits de jeu."
+                        ],
+                        "description2": "Au cœur du Parc des Sources, notre casino accueille les visiteurs qui recherchent à Vichy une adresse de loisirs alliant jeu, restauration et ambiance urbaine élégante. Ouverts tous les jours à partir de 10h00, nous permettons à nos clients de profiter aussi bien d’une visite spontanée en journée que d’un moment de divertissement plus prolongé, au rythme du centre-ville.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6223",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "À propos du casino",
+                        "description3": ""
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Fonctionnalités du casino",
+                        "description": "<p>Notre casino s’adresse à un public qui recherche bien plus qu’un simple espace de jeu. Grâce à notre implantation au cœur du Parc des Sources, nous réunissons dans un même lieu le divertissement, la restauration et une ambiance urbaine élégante, ce qui donne à la visite une vraie valeur d’expérience, et pas uniquement une fonction de jeu. Pour beaucoup de visiteurs, cela signifie la possibilité de construire une sortie complète, en alternant moments de détente, temps de jeu et pause conviviale autour du bar ou du restaurant.<\/p>\n<br>\n<p>Notre offre sur place crée aussi un équilibre intéressant entre accessibilité et variété. Avec 92 machines à sous, 25 postes de jeux électroniques et 3 tables de jeux traditionnelles, nous répondons à plusieurs profils de visiteurs dans un même environnement: ceux qui privilégient le rythme immédiat des machines, ceux qui recherchent une expérience électronique fluide, et ceux qui apprécient l’atmosphère plus classique des tables traditionnelles. Cette combinaison renforce la souplesse de l’expérience et permet à chacun de profiter du casino selon ses habitudes et son tempo.<\/p>\n<br>\n<p>Au-delà du jeu, notre fonctionnement quotidien, notre programme Players Plus, notre accessibilité pour les personnes à mobilité réduite et la présence d’animations participent à une expérience plus structurée et plus confortable. Pour nos clients, cela se traduit par un lieu central, vivant et pratique, où le loisir sur place s’intègre naturellement à une sortie à Vichy.<\/p><br>\n\n<div style=\"width:100%; max-width:100%; overflow:hidden;\">\n  <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n    \n    <tr>\n      <th style=\"width:38%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Caractéristique\n      <\/th>\n      <th style=\"width:62%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Détails\n      <\/th>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Nom du casino\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Casino Partouche Vichy\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Opérateur\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Groupe Partouche\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Emplacement\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Parc des Sources, au centre de Vichy\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Horaires d’ouverture\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Ouvert tous les jours à partir de 10h00\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Machines à sous\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        92 machines à sous sur place\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Postes de jeux électroniques\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        25 postes de jeux électroniques\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Tables de jeux traditionnelles\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        3 tables de jeux traditionnelles\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Restauration sur place\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Bar et restaurant au sein de l’établissement\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Programme de fidélité\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Accès au programme Players Plus\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Accessibilité\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Accès adapté aux personnes à mobilité réduite confirmé\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Conditions d’entrée\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Entrée gratuite, tenue correcte demandée, accès réservé aux 18 ans et plus, pièce d’identité obligatoire\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Animations\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Animations et divertissements confirmés sur place\n      <\/td>\n    <\/tr>\n\n  <\/table>\n<\/div>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Dépôts et retraits",
+                        "description": "<p>Pour de nombreux visiteurs d’un casino terrestre, la clarté des transactions influence l’expérience bien avant le début de la première partie. Elle joue un rôle important dans la façon dont nos visiteurs organisent leur budget de jeu, prévoient la durée de leur passage et envisagent leur moment de détente sur place. Des informations simples, lisibles et transparentes permettent de profiter pleinement de la visite, en toute sérénité, qu’il s’agisse d’une halte rapide ou d’une expérience plus longue au sein de notre établissement.<\/p>\n<br>\n<p>Dans l’ensemble des sources publiques vérifiées utilisées pour cette page, nos points forts confirmés concernent avant tout l’expérience sur place. Nous mettons à disposition un environnement de jeu attractif, une offre de restauration et de boissons, un programme de fidélité, des services pensés pour le confort des visiteurs ainsi que des expériences-cadeaux dédiées aux loisirs et à la détente. Ces éléments reflètent pleinement l’identité de notre établissement et la qualité de l’accueil que nous souhaitons offrir à chaque visite.<\/p>\n<br>\n<p>Afin de garantir une information exacte, claire et pleinement fiable, les éléments liés aux méthodes de dépôt, aux moyens de retrait, aux plafonds de transaction, aux délais de traitement ou aux conditions de paiement non confirmés par des sources publiques vérifiées sont indiqués comme <strong>non précisés<\/strong> dans le tableau ci-dessous. Cette approche nous permet de préserver des attentes réalistes, d’éviter toute confusion et de rester strictement alignés avec les informations actuellement confirmées pour le Casino Partouche Vichy.<\/p>\n<br>\n<p>Nous privilégions une présentation transparente et rigoureuse des informations disponibles. Lorsqu’un élément n’est pas officiellement confirmé dans les sources consultées, nous préférons l’indiquer clairement plutôt que de supposer ou de généraliser. Cela permet à nos visiteurs de consulter cette page avec confiance et d’identifier immédiatement quelles informations sont vérifiées, lesquelles relèvent de l’expérience sur place, et quels points méritent, si nécessaire, une confirmation directe avant la visite.<\/p>\n<br>\n<p>Ainsi, cette section a pour objectif de fournir un cadre pratique, lisible et honnête autour des dépôts et retraits, tout en mettant en avant ce qui est déjà solidement confirmé concernant notre établissement : une expérience de casino complète, élégante et orientée vers le confort du visiteur.<\/p>\n<br>\n<div style=\"width:100%; max-width:100%; overflow:hidden;\">\n  <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n    \n    <tr>\n      <th style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; color:#ffffff; background:transparent; word-break:break-word;\">\n        Nos atouts\n      <\/th>\n      <th style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; color:#ffffff; background:transparent; word-break:break-word;\">\n        Détails\n      <\/th>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); color:#ffffff; background:transparent; word-break:break-word;\">\n        Emplacement privilégié\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); color:#ffffff; background:transparent; word-break:break-word;\">\n        Nous sommes situés au Parc des Sources, au cœur de Vichy.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); color:#ffffff; background:transparent; word-break:break-word;\">\n        Large offre de jeux\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); color:#ffffff; background:transparent; word-break:break-word;\">\n        Nous proposons 92 machines à sous, 25 postes de jeux électroniques et 3 tables de jeux traditionnelles.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); color:#ffffff; background:transparent; word-break:break-word;\">\n        Expérience complète sur place\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); color:#ffffff; background:transparent; word-break:break-word;\">\n        Nous réunissons jeux, bar et restaurant dans un même lieu.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); color:#ffffff; background:transparent; word-break:break-word;\">\n        Accueil pratique\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); color:#ffffff; background:transparent; word-break:break-word;\">\n        Nous offrons une entrée gratuite dans un cadre élégant et accessible.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); color:#ffffff; background:transparent; word-break:break-word;\">\n        Programme de fidélité\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); color:#ffffff; background:transparent; word-break:break-word;\">\n        Players Plus accompagne l’expérience de nos visiteurs réguliers.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); color:#ffffff; background:transparent; word-break:break-word;\">\n        Offres cadeaux\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); color:#ffffff; background:transparent; word-break:break-word;\">\n        Nous proposons également des expériences dédiées aux loisirs et à la détente.\n      <\/td>\n    <\/tr>\n\n  <\/table>\n<\/div>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Où se situe le Casino Partouche Vichy ?",
+                            "answer": "Nous sommes situés au Parc des Sources, en plein centre de Vichy."
+                        },
+                        {
+                            "title": "Quels jeux proposons-nous sur place ?",
+                            "answer": "Notre profil public vérifié confirme 92 machines à sous, 25 postes de jeux électroniques et 3 tables de jeux traditionnelles."
+                        },
+                        {
+                            "title": "Avons-nous une offre de restauration et de boissons sur place ?",
+                            "answer": "Oui. Nous disposons d’un bar et d’un restaurant au sein de l’établissement."
+                        },
+                        {
+                            "title": "Existe-t-il un programme de fidélité au Casino Partouche Vichy ?",
+                            "answer": "Oui. Le programme Players Plus est disponible."
+                        },
+                        {
+                            "title": "Quels sont nos moyens de dépôt et de retrait ?",
+                            "answer": "Non précisé."
+                        },
+                        {
+                            "title": "Proposons-nous des expériences cadeaux packagées ?",
+                            "answer": "Oui. Les offres cadeaux vérifiées à Vichy comprennent notamment un brunch pour deux et des expériences apéritif avec 20 € de crédits de jeu."
+                        },
+                        {
+                            "title": "Quelles sont les conditions d’entrée ?",
+                            "answer": "L’entrée est gratuite, une tenue correcte est exigée, l’accès est réservé aux personnes de 18 ans et plus, et une pièce d’identité est obligatoire."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
